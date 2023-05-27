@@ -1,3 +1,8 @@
+# Shadcn UI Create React App
+
+Example Create By [Ahmad Sandid](https://github.com/ahmad1702). Components by [Shadcn](https://ui.shadcn.com/). Uses [Vite](https://vitejs.dev/).
+
+## Installation Steps
 1. Initialize Project:
    ```bash
    npx create-vite-app (react > typescript)
